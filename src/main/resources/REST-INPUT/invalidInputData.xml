@@ -1,0 +1,16 @@
+<!-- POST:  http://localhost:9090/api/customers -->
+
+<customers>
+	<customer>
+		<name></name>
+		<address>123 Main St.</address>
+		<age>24</age>
+		<active>false</active>
+	</customer>
+	<customer>
+		<name>Farzeen Ahsan</name>
+		<address></address>
+		<age>14</age>
+		<active>false</active>
+	</customer>
+</customers>
