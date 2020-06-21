@@ -1,2 +1,2 @@
-# SpringBootCustomAnnotationValidation
+# SpringBootREST-XML-JSON-Validation
 "# SpringBootRestXMLH2" 
