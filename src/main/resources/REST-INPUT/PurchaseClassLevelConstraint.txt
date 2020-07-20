@@ -1,0 +1,12 @@
+<!-- POST:  http://localhost:9090/api/rest/purchases -->
+
+<purchases>
+	<purchase>
+		<quantity>122</quantity>
+		<price>3.89</price>
+	</purchase>
+	<purchase>
+		<quantity>2</quantity>
+		<price>35</price>
+	</purchase>
+</purchases>
